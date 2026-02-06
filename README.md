@@ -1,1 +1,2 @@
 # Land-Record-System
+I developed this blockchain project during my 5th semester as part of my Blockchain course. The project focuses on understanding the core concepts of blockchain such as decentralization, blocks, transactions, and immutability. Working on this project gave me practical exposure to how blockchain systems operate and how data is stored securely in a distributed ledger. This experience strengthened my conceptual knowledge and increased my interest in building secure and transparent blockchain-based applications.
